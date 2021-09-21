@@ -12,7 +12,7 @@ tags:
     - jieun
 categories:
     - KPop
-thumbnail: \images\purplekiss_ponzona.jpg
+thumbnail: /images/purplekiss_ponzona.jpg
 ---
 
 ![Purple Kiss](/images/purplekiss_ponzona.jpg)
