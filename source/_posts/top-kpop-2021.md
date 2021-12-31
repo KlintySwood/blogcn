@@ -28,8 +28,6 @@ thumbnail: /images/dreamcatcher-because-02.jpg
 
 ![Dreamcatcher](/images/dreamcatcher-because-01.jpg)
 
-## Intro
-
 Bonjour à toutes et à tous ! Bienvenue pour mon nouveau top des titres KPop de l'année !
 2021 fut une rude année à bien des niveaux mais heureusement la Corée du Sud continue de nous gratifier de nombreux titres riches en bonne humeur et pleins de joie de vivre. La machine à rêve ne s'arrête pas, les idols non plus et il est temps de faire une petite rétrospective sans ordre particulier des morceaux qui m'ont marqué cette année.
 
